@@ -1,16 +1,37 @@
-## Hi there 👋
+# ⚡ Anthony Morales | Content Lead @ Frutero Club & Pokta Labs
 
-<!--
-**AnthonyFclub/AnthonyFclub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Frutero%20Club-Web3%20Education-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Godínez.AI-AI%20Agents-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pokta%20Labs-B2B%20Solutions-black?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+### 🧠 Content Signal Pipeline Mastermind
+Operando el flujo de contenido para la comunidad Web3 más grande de LATAM. Especialista en **AI-augmented workflows**, automatización de señales y despliegue de agentes inteligentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech & Ops Stack
+* **AI & Automation:** CrewAI architecture, OpenAI/Gemini APIs, Claude Code, OpenClaw.
+* **Web3 Ecosystem:** Collaborative work with **Uniswap Labs, Arbitrum, Base, Monad**.
+* **Full Stack Dev:** TypeScript, Next.js, Vercel, Supabase, Notion API.
+* **Operations:** Logistic management, budget administration & high-pressure execution.
+
+---
+
+### 🚀 High Impact Projects
+* **[Godínez.AI Dashboard](https://godinez-signal-dashboard.vercel.app/):** Pipeline de señales con scoring automatizado.
+* **[Valarnaut Memory](https://github.com/AnthonyFclub/valarnaut-memory):** Mi "Second Brain" para gestión técnica.
+* **[Marco-Links](https://marco-links.vercel.app/):** Professional Hub con estética Rivendell.
+
+---
+
+### 📊 Ecosystem Activity
+![Stats](https://github-readme-stats.vercel.app/api?username=AnthonyFclub&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyFclub&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+<p align="center">
+  <a href="https://marco-links.vercel.app/"><b>Personal Hub</b></a> • 
+  <a href="https://fruteroclub.com"><b>Frutero Club</b></a>
+</p>
